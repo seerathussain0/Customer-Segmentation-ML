@@ -1,0 +1,25 @@
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Editor history
+.history/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Sensitive files
+.env
+
+# Original dataset
+Online Retail.xlsx
+
+# Operating system files
+.DS_Store
+Thumbs.db
